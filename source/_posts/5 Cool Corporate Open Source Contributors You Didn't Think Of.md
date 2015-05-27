@@ -1,6 +1,6 @@
-title: "10 Cool Corporate Open Source Contributors You Didn't Think Of"
+title: "5 Cool Corporate Open Source Contributors You Didn't Think Of"
 date: 2015-05-25 09:58:39
-tags:
+tags: open source
 ---
 
 I had the idea for this post after accidentally stumbling across [KrakenJS](http://krakenjs.com/) and realising its a Paypal open source project. 
@@ -20,6 +20,9 @@ Not only is KrakenJS a much beefed up version of the Node framework ExpressJS wi
 It's also a way to structure your project. It is like [Sinatra's](http://www.sinatrarb.com/) [Padrino](http://www.padrinorb.com/) of the Ruby world.
 
 ## 1. Paypal
+
+{% asset_img "paypal.jpg" [Paypal] %}
+
 As I've already mentioned Paypal's greatest contribution (<acrnym title="In My Humble Opinion">IMHO</acronym>) KrakenJS here's **[Paypals GitHub page with all their projects](http://paypal.github.io/)**:
 
 * [KrakenJS](http://krakenjs.com/) - As above.
@@ -55,3 +58,26 @@ Some of their projects:
 * [Puppet Explorer](https://github.com/spotify/puppetexplorer) - Puppet web interface written in CoffeeScript using AngularJS.
 
 Check out the developer blog for all their API's and SDKs.
+
+## 4. UK Government
+
+What? That stuffy old wood and leather palace with its yays and nays? Yep - ineed they have such a prolific open source collection on Github (19 pages of repos!) It was hard to dig out the gems. Its worth checking them all and there's some that are criminally under-appreciated. Here's a few:
+
+* [Magna Charter](https://github.com/alphagov/magna-charta) - Accessible, useful, beautiful barcharts from HTML tables.
+* [Gov.UK Styleguides](https://github.com/alphagov/styleguides) - Good to see the government have style guides in place.
+* [Router](https://github.com/alphagov/router) - Just, erm. Wow. Check the readme - maybe you'll make more sense of it than me. Seems built on Go and handles routing for the main Gov.uk site.  
+
+One thing I have noticed is the UK Government does seem to like it's Ruby, esp. Ruby on Rails.
+
+Check out the full 19 page monster list at [AlphaGov](https://github.com/alphagov/).
+
+## 5. The Guardian
+The UK newspaper currently has a list of repos to rival the Government's but the potential for cool finds does seem a bit higher. Here's a few I managed to dig out:
+
+* [Prout](https://github.com/guardian/prout) - Looks after your pull requests, tells you when they're live.
+
+
+Of course the Guardian wouldn't be much of a newspaper without its own developer blog now would it:
+
+* [Guardian Developer Blog](http://www.theguardian.com/info/developer-blog)
+* [Guardian Github Account]()

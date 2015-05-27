@@ -1,37 +1,11 @@
-title: Hello World
+title: "Hello, World"
+date: 2015-05-01 14:19:13
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+Seems only right to start a new blog with this. It's far from my first having started a tech blog (remaining nameless) around about 2005/6. Not long after leaving uni. It lasted for quite a while had a lot of visitors but I got bored and so killed it off, dropped the domain, etc.
 
-### Create a new post
+I started my previous blog when the tech world seemed to be in a state of flux. Rails hit the scene not long after Agile Development became a cool word. Django came not long after and I blogged liberally during the whole Ruby vs Python malarky. A hea;lthy dose of youthful exuberance and arrogance also added to my desire to start the blog back then.
 
-``` bash
-$ hexo new "My New Post"
-```
+Now I've decided to start one...well why not? It isn't the only one. I've got plans to re-launch another personal blog in the not too distant future. Very unrelated to this.
 
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+In the meantime if you wanted to know who I am read the blogs title or read the [About](/About) page.

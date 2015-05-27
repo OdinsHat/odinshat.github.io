@@ -3,13 +3,14 @@ date: 2015-05-12 21:58:25
 tags: hexo
 ---
 
-{% asset_img hexo-logo.png [Hexo Logo] %} It's taken a lot of umming and aring to come to this decision but it 
-was finally made when I decided I'd had enough of said umming and arring.
+It's taken a lot of umming and aring to come to this decision but it was finally made when I decided I'd had enough of said umming and arring.
 
-My basic requirement was: 
+<img src="{% asset_path "hexo-logo.png" %}" alt="Hexo Logo" class="pull-right" />
+
+### My basic requirement
 **A site hosted on Github generated using a static site generator with posts written in Markdown.**
 
-### Simple?
+**Simple?**
 Well I'd narrowed it down to [Jekyll](http://jekyllrb.com/) and [Pelican](http://blog.getpelican.com/) initially.
 
 ### Why not Jekyll
@@ -28,14 +29,7 @@ I do use [Pelican](http://blog.getpelican.com/) for another site and its been ga
 I went through several iterations that never saw the light of day. First it required I set up a virtualenv, install Pelican, then its dependencies, etc, etc, etc. I was fiddling around trying to make a nice custom theme because all the existing themes weren't to my liking. This was completly different to the days of my first tech blog where I just chose whatever Worpress theme looked nice at the time and I changed with the changing of the seasons. Pelican had no nice default themes and was a pain to use.
 
 I simply wanted somewhere to write - I didn't want to fight to write.
-<aside>
-Summary of Why:
-* Clean, simple CLI.
-* Comprehensive.
-* Just different enough.
-* Nice site.
-* Chance to dabble in EJS, Node, etc.
-</aside>
+
 So on I went considering even hosted blogs like Tumblr, Wordpress, Blogger. I started looking at other dev blogs to see what they used and quickly noticed many of them had the same feelings I did. 
 
 No custom themeing (or very little). Often 3rd party hosted on 3rd party platforms. 
@@ -53,4 +47,11 @@ Its packages and plugins easily available via npm. For something so relatively y
 
 And so here's to a hopefully bright future with Hexo.
 
-<aside>I'll be converting my other blog to Hexo in the not too distant future also.</aside>
+## TL;DR
+* Clean, simple CLI.
+* Comprehensive.
+* Just different enough.
+* Nice site.
+* Chance to dabble in EJS, Node, Stylus, etc.
+
+*As mentioned in a previous post I'll be converting my other blog to Hexo in the not too distant future.*
