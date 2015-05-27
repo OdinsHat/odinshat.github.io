@@ -21,8 +21,6 @@ It's also a way to structure your project. It is like [Sinatra's](http://www.sin
 
 ## 1. Paypal
 
-{% asset_img "paypal.jpg" [Paypal] %}
-
 As I've already mentioned Paypal's greatest contribution (<acrnym title="In My Humble Opinion">IMHO</acronym>) KrakenJS here's **[Paypals GitHub page with all their projects](http://paypal.github.io/)**:
 
 * [KrakenJS](http://krakenjs.com/) - As above.
@@ -75,9 +73,13 @@ Check out the full 19 page monster list at [AlphaGov](https://github.com/alphago
 The UK newspaper currently has a list of repos to rival the Government's but the potential for cool finds does seem a bit higher. Here's a few I managed to dig out:
 
 * [Prout](https://github.com/guardian/prout) - Looks after your pull requests, tells you when they're live.
-
+* [Alerta](https://github.com/guardian/alerta)
+* [HTML Janitor](https://github.com/guardian/html-janitor) - santises HTML.
+* [Guss Typography](https://github.com/guardian/guss-typography) - Next Gen type scale and other Sass typography helpers
 
 Of course the Guardian wouldn't be much of a newspaper without its own developer blog now would it:
 
 * [Guardian Developer Blog](http://www.theguardian.com/info/developer-blog)
-* [Guardian Github Account]()
+* [Guardian Github Account](https://github.com/guardian)
+
+If you think I've missed off any great projects let me know: doug (at) tintophat (dot) com
