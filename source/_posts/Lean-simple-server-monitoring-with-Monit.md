@@ -1,6 +1,6 @@
 title: "Lean, simple server monitoring with Monit"
 date: 2015-07-11 07:39:24
-tags:
+tags: sysadmin
 ---
 
 [Monit](https://mmonit.com/monit/) is a comparitively lightweight server monitor. I'd say its biggest sellig point is th ease ans sped of setup compared to the more enterprise-grade monnitoring services like [Nagios](http://nagios.org), [Icinga](http://icinga.org), [Munnin](http://munin-monitoring.org/), [Zabbix](http://www.zabbix.com/), etc. Those are likely overkill unless in an enterprise situation.
