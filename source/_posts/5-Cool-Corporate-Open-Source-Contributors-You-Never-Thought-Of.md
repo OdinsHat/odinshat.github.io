@@ -1,4 +1,4 @@
-title: "5 Cool Corporate Open Source Contributors You Didn't Think Of"
+title: "5 Cool Corporate Open Source Contributors You Never Thought Of"
 date: 2015-05-25 09:58:39
 tags: open source
 ---
@@ -21,6 +21,8 @@ It's also a way to structure your project. It is like [Sinatra's](http://www.sin
 
 ## 1. Paypal
 
+<img src="{% asset_path "paypal-logo.png" %}" />
+
 As I've already mentioned Paypal's greatest contribution (<acrnym title="In My Humble Opinion">IMHO</acronym>) KrakenJS here's **[Paypals GitHub page with all their projects](http://paypal.github.io/)**:
 
 * [KrakenJS](http://krakenjs.com/) - As above.
@@ -33,6 +35,8 @@ As I've already mentioned Paypal's greatest contribution (<acrnym title="In My H
 
 ## 2. Netflix
 First it was a major banking organisation. Now we've the darling of media streaming services to the public and paraiah to US ISPs.
+
+<img src="{% asset_path "netflix-logo.png" %}" />
 
 The Netflix open source contribution is no less impressive than PayPals - maybe even more so which is why its criminal its not more widely known. So here's a heads up on their:
 
@@ -58,6 +62,8 @@ Some of their projects:
 Check out the developer blog for all their API's and SDKs.
 
 ## 4. UK Government
+
+<img src="{% asset_path "hm_government.png" %}" />
 
 What? That stuffy old wood and leather palace with its yays and nays? Yep - ineed they have such a prolific open source collection on Github (19 pages of repos!) It was hard to dig out the gems. Its worth checking them all and there's some that are criminally under-appreciated. Here's a few:
 
