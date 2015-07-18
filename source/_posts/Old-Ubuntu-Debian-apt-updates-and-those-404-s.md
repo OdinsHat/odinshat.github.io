@@ -23,6 +23,6 @@ deb http://old-releases.ubuntu.com/ubuntu quantal-updates main
 deb http://old-releases.ubuntu.com/ubuntu quantal-security main
 deb http://old-releases.ubuntu.com/ubuntu quantal universe
 deb http://old-releases.ubuntu.com/ubuntu quantal-updates universe
-{% codeblock %}
+{% endcodeblock %}
 
 Then run `sudo apt-get update` to get the 'fresh' list of packages you're used to But its highly recommended you upgrade your distro to a more up-to-date version by following the steps at [Ubuntu's community EOL page](https://help.ubuntu.com/community/EOLUpgrades/).
