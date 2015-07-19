@@ -9,7 +9,7 @@ As this is primarily a tech and coding blog I'll keep to those subjects.
 For more information on my professional career check out:
 
 * [LinkedIn](https://uk.linkedin.com/in/dougbromley)
-* [GitHub](github.com/OdinsHat)
+* [GitHub](http://github.com/OdinsHat)
 * [Stack Overflow](http://stackoverflow.com/users/288001/rustyfluff)
 
 Other social media:
