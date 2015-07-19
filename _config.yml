@@ -79,3 +79,7 @@ feed:
 
 markdown: 'commonmark'
 disqus_shortname: dougbromley
+
+deezer:
+  theme: dark
+  appid: 161645
