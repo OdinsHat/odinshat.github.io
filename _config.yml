@@ -83,3 +83,6 @@ disqus_shortname: dougbromley
 deezer:
   theme: dark
   appid: 161645
+
+sitemap:
+  path: sitemap.xml

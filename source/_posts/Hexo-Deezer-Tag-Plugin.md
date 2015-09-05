@@ -1,9 +1,12 @@
 title: Hexo Deezer Tag Plugin
 date: 2015-07-19 14:17:59
-tags: hexo, javascript
+tags:
+  - hexo
+  - javascript
+  - projects
 ---
 
-As a relatively new user to Hexo I thought it only right to put my contrbution into the mix with a new plugin.
+As a relatively new user to Hexo I thought it only right to put my contrbution into the mix with a new plugin. I was inspired by [Ivanov Yordan's Spotify tag plugin here](https://github.com/ivanovyordan/hexo-tag-spotify).
 
 The [Deezer Tag Plugin](https://github.com/OdinsHat/hexo-tag-deezer).
 
