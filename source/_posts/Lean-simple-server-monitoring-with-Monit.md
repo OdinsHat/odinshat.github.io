@@ -1,6 +1,7 @@
 title: "Lean, simple server monitoring with Monit"
 date: 2015-07-11 07:39:24
-tags: sysadmin
+tags: 
+  - sysadmin
 ---
 
 [Monit](https://mmonit.com/monit/) is a comparitively lightweight server monitor. I'd say its biggest sellig point is th ease ans sped of setup compared to the more enterprise-grade monnitoring services like [Nagios](http://nagios.org), [Icinga](http://icinga.org), [Munnin](http://munin-monitoring.org/), [Zabbix](http://www.zabbix.com/), etc. Those are likely overkill unless in an enterprise situation.
@@ -121,3 +122,7 @@ Then set the location of that pid file in your server monitoring configs as abov
 ### Problem 2 - Alert emails not working
 
 This is pretty common especially if you're using the localhost. Its most likely they are going to spam or your server is simply picking them up due to a misconfigured Postfix install. Check your spam folder and try a different alert email on a different domain to narrow down the issue.
+
+### Currently listening to...
+
+{% deezer 68515264 %}

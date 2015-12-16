@@ -16,7 +16,7 @@ It enables you to use a tag like this:
 {% deezer trackid %}
 ```
 
-To get something like this in your blog post:
+To get something like this in your blog posts:
 
 {% deezer 916445 %}
 
