@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "hexo": "^3.0.0",
+    "hexo-deezer-playlist-helper": "^1.0.0",
     "hexo-deployer-git": "0.0.4",
     "hexo-generator-archive": "^0.1.0",
     "hexo-generator-category": "^0.1.0",
@@ -15,11 +16,13 @@
     "hexo-generator-sitemap": "^1.0.1",
     "hexo-generator-tag": "^0.1.0",
     "hexo-github": "^1.0.1",
+    "hexo-helper-word-count": "0.0.1",
     "hexo-renderer-ejs": "^0.1.0",
     "hexo-renderer-marked": "^0.2.5",
     "hexo-renderer-stylus": "^0.2.0",
     "hexo-server": "^0.1.2",
     "hexo-tag-deezer": "^1.0.3",
-    "hexo-tag-spotify": "^1.0.4"
+    "hexo-tag-spotify": "^1.0.4",
+    "hexo-wordcount": "0.0.1"
   }
 }
