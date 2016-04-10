@@ -2,6 +2,7 @@ title: "Why Hexo?"
 date: 2015-05-12 21:58:25
 tags: 
   - hexo
+  - javascript
 ---
 
 It's taken a lot of umming and aring to come to this decision but it was finally made when I decided I'd had enough of said umming and arring.

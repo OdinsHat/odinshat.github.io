@@ -2,6 +2,7 @@ title: 'Error: Cannot find module'
 date: 2015-10-17 03:18:31
 tags:
  - hexo
+ - quickfix
 ---
 
 <img src="{% asset_path "quick-fix.png" %}" class="pull-right" />

@@ -4,6 +4,7 @@ tags:
   - sysadmin
   - ansible
   - devops
+  - linux
 ---
 
 You need to execute a single command across multiple servers? You may use Ansible but that’s mainly about playbooks, provisioning, setup and the like isn't it?

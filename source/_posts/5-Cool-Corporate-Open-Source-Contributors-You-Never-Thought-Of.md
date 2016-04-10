@@ -2,6 +2,7 @@ title: "5 Cool Corporate Open Source Contributors You Never Thought Of"
 date: 2015-05-25 09:58:39
 tags: 
   - open source
+  - javascript
 ---
 
 I had the idea for this post after accidentally stumbling across [KrakenJS](http://krakenjs.com/) and realising its a Paypal open source project. 

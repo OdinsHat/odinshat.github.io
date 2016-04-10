@@ -2,6 +2,7 @@ title: "Old Ubuntu/Debian apt updates and those 404's"
 date: 2015-07-11 06:42:27
 tags: 
   - ubuntu
+  - linux
 ---
 
 If like me you have had annoying 404's pop up during `apt-get update` and no amount of fiddling with the `/etc/apt/source.list` then it means your Ubuntu has reached End of Life. AKA: it's an <acronym title="Old Aged Pensioner">OAP</acronym>. 
