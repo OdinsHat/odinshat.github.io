@@ -31,6 +31,8 @@ You’re not limited by OS with Ansible. Here I’m using both the Apt and Yum c
 
 2. `ansible main -i ./hosts -m service -a 'name=apache2 state=restarted'`
 
+3. `ansible webservers -m service -a "name=httpd state=started"`
+
 I’ve given 2 examples above to show:
 1. That you can reference a host directly on the terminal.
 2. It works for any service
