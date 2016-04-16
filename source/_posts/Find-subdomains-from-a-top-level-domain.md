@@ -9,9 +9,13 @@ Having been asked this question a few times by varying people I thought I’d do
 
 ## The Official Way
 
-`dig @ns.thenameserver.net example.com axfr`AXFR is a method of domain transfer and if the name servers are configured to allow the command to be executed then it would give you the full NS record for that domain including any subdomains.
+`dig @ns.thenameserver.net example.com axfr` AXFR is a method of domain transfer and if the name servers are configured to allow the command to be executed then it would give you the full NS record for that domain including any subdomains.
 
-Trying that will likely give you this message:```; <<>> DiG 9.8.3-P1 <<>> @ns.thenameserver.net example.com axfr; (1 server found);; global options: +cmd; Transfer failed.```
+However, trying that will likely give you this message:
+
+```
+; <<>> DiG 9.8.3-P1 <<>> @ns.thenameserver.net example.com axfr; (1 server found);; global options: +cmd; Transfer failed.
+```
 
 ## Unofficial Methods
 
