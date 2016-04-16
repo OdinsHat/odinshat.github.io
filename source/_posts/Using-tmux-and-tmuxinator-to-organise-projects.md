@@ -6,9 +6,9 @@ tags:
 ---
 If you're anything like me and have a problem with names - not just people - but projects too. Or if you find yourself losing track of projects because of different languages or editors used.
 
-You may find your saviour in the tmux + tmuxinator.
+> You may find your saviour in the tmux + tmuxinator combo.
 
-When discovering virtualenvwrappers `workon` command for managing Python projects I was immediately envious of it's functionality; wishing it was available for other projects.
+When discovering [virtualenvwrappers](https://virtualenvwrapper.readthedocs.org/en/latest/) `workon` command for managing Python projects I was immediately envious of it's functionality; wishing it was available for other projects.
 
 I wanted a similar app that could launch prepared editor environments. While being flexible enough to change editor on a whim. I often switch between Vim, Sublime and Atom depending on mood and weather. If I'm feeling especially masochistic I'll setup a project in PHPStorm (leave hate mail below). 
 
@@ -26,9 +26,7 @@ tmux enables you to save multiple virtual consoles. In a basic way it can help y
 But if you were in a tmux session then its all saved as ts all executed from the tmux process. tmux becomes more profound as you use it. When you combine it with [Tmuxinator](https://github.com/tmuxinator/tmuxinator) you suddenly realise you are capable of taking over the universe (or something similar)
 
 ## Tmuxinator
-This RubyGem really doesn't do itself justice when you check out the readme.
-
-Tmuxinator gives you all the power of Tmux but with configurable states. So you're no longer restricted to just saving your last state said but you can set up your own states. Your terminal, and to an extent your system, can be setup for a particular project.
+[Tmuxinator](https://github.com/tmuxinator/tmuxinator) gives you all the power of Tmux but with configurable states. So you're no longer restricted to just saving your last state said but you can set up your own states. Your terminal, and to an extent your system, can be setup for a particular project.
 
 <img src="{% asset_path "unlimited-power.gif" %}" alt="tmux and tmuxinator gives unlimited power" />
 
@@ -49,7 +47,7 @@ tmuxinator projects:
 awin-feeder   fspart   myblog    ukp
 ```
 
-And all it takes is `mux myblog` to open up that project. 
+And all it takes is `mux open myblog` to open up that project. 
 
 Here's an example of the tmuxinator project file for this blog:
 
@@ -68,6 +66,12 @@ windows:
       panes:
         - hexo generate -w
         - hexo serve
+  - gitstats:
+      layout: main-horizontal
+      panes:
+        - git ll
+        - git cal
+        - git summary
 ```
 
 In the above its:
@@ -75,9 +79,12 @@ In the above its:
 1. Opening the a basic vertical layout 
 2. Then in the main pane its opening Sublime with my blog as the main project so I can start editing straight away. 
 3. In a separate pane the `hexo help` command is run to remind me of hexo's commands. 
-4. In another pane the hexo local server is run.
-5. In another window hexo generate is run with the watch flag so I can see any changes I save regenerated live.
+4. In another window the hexo local server is run.
+5. In that same window another pane with hexo generate is run with the watch flag so I can see changes regenerated live.
+6. In the final window is a set of panes giving some git info - I often find this useful to remind me where I left the project.
+
+<img src="{% asset_path "final-screen.png" %}" alt="Session Screenshot of Window gitstats" />
 
 In the past all of these sequences and processes would have to be remembered but if you have multiple projects it can become a burden to remember them all.
 
-Tmuxinator along with tmux makes things much simpler.
+[Tmuxinator](https://github.com/tmuxinator/tmuxinator) along with [tumx](https://tmux.github.io) makes things much simpler.
