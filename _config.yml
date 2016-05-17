@@ -9,6 +9,7 @@ description: Ramblings about programming in PHP, Python and other langauges. May
 author: Doug Bromley
 language: en
 timezone: Europe/London
+awin: 3613cb7a808f6faa9e20079995f4b0f1
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
