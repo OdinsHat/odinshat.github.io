@@ -5,7 +5,7 @@ tags:
  - programming
 ---
 
-If I ever start at a new job where I'm given a new Mac I always set up these aliases. I'll list them with their output then at the end provide a gist of them you can add to your own aliases.
+<img src="{% asset_path "git-logo.png" %}" alt="Git Logo" class="pull-right" />If I ever start at a new job where I'm given a new Mac I always set up these aliases. I'll list them with their output then at the end provide a gist of them you can add to your own aliases.
 
 If you're on a Mac with OSX then you will find your aliases in `~/.gitonfig`
 
