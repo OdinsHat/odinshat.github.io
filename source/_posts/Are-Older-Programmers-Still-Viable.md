@@ -4,7 +4,13 @@ tags:
  - programming
 ---
 
-Found this interesting video on whether older programmers can still be relevant. A good question considering I'm now in my thirties and Mark Zuckerberg famously said "If you're over 30, you're a low old man". Along with a tring of other similar statements from Zuck and major people at Intel, etc.
+Found this interesting video on whether older programmers can still be relevant. A good question considering I'm now in my thirties and Mark Zuckerberg famously said:
+
+> "If you're over 30, you're a slow old man" ~ Mark Zuckerberg
+
+*(at the time of writing Mark Zuckerberg is 32yrs old - the same age as me)*
+
+Along with a string of other similar statements from Zuck and major people at Intel, etc.
 
 I wonder if Zuckerberg's opinion has changed since he reached 30?
 
