@@ -9,7 +9,7 @@ tags:
  - programming
 ---
 
-<img src="{% asset_path "hexo-logo.png" %}" alt="Hexo Logo" class="pull-right" /></a> Version 1.0.6 has been released of the latest [Hexo Deezer Tag plugin](http://www.dougbromley.com/2015/07/Hexo-Deezer-Tag-Plugin/). This was mainly a maintenance update to include the latest changes in Hexo by [Tommy351](https://github.com/tommy351). These included [project-specific styling](https://github.com/hexojs/jscs-preset-hexo) and [linting](https://github.com/hexojs/eslint-config-hexo).
+<img src="{% asset_path "hexo-logo.png" %}" alt="Hexo Logo" class="pull-right" /> Version 1.0.6 has been released of the latest [Hexo Deezer Tag plugin](http://www.dougbromley.com/2015/07/Hexo-Deezer-Tag-Plugin/). This was mainly a maintenance update to include the latest changes in Hexo by [Tommy351](https://github.com/tommy351). These included [project-specific styling](https://github.com/hexojs/jscs-preset-hexo) and [linting](https://github.com/hexojs/eslint-config-hexo).
 
 <br style="clear:both" />
 
@@ -38,4 +38,4 @@ npm run jscs
 ## Finally
 
 {% deezer 16541039 %}
-**Grimes is currently touring!**
+**[Grimes is currently touring](http://tidd.ly/c74ac17f)!**
