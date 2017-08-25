@@ -10,7 +10,7 @@ Born, got access to my first PC at the age of 4 or 5. I think it was my dad's bu
 
 BASIC probably wasn't the best first language to experiment with but as a kid I was just desperate to hack away with anything and everything. I still  have that same Amstrad computer with me today pictured below. It works and here's a vieo to prove it:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yivH2Ee62ZA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Blog author programming an old CPC6128" src="https://www.youtube.com/embed/yivH2Ee62ZA" frameborder="0" allowfullscreen></iframe>
 
 ## Mid 90's
 
@@ -24,7 +24,7 @@ Towards the end of high school I'd got more involved with BASH scripting, C, C++
 
 Using my 56K modem at the time I did manage to [wardial](https://en.wikipedia.org/wiki/War_dialing) about 30 telephone numbers thinking that my modems constant dialling, connecting, disconnecting must somehow make me the ultimate hacker of hackers.
 
-<img src="{% asset_path 'Hackersposter.jpg' %}" />
+<img src="{% asset_path 'Hackersposter.jpg' %}" alt="Hackers Poster" />
 
 Thankfully my mum and step dad weren't home. Because for the next hour I had to field calls from angry people calling the house claiming "this number called me a minute ago!". I had to repeatedly play dumb to these irate calls until thankfully they died down before my parents got home. That put an end to my overt attempts to 'hack the planet'.
 

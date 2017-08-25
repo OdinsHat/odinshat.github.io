@@ -9,7 +9,7 @@ If you’re a Windows user then you’ve likely come across [Sysinternals](https
 
 If you’ve ever been in a position with a unexplainable BSOD, unhelpful error dialogs, then check out Mark Russinovich’s “The Case of the Unexplained” [webcasts](https://channel9.msdn.com/events/ignite/2015/brk3316) where he’ll give tips on figuring out what dialogs like these actually mean:
 
-<img src="{% asset_path "olxerr.gif" %}" />
+<img src="{% asset_path "olxerr.gif" %}" alt="Outlook Express Dialog" />
 
 Anyway you don’t actually need to download the tools as they have been made available as a share at `\\live.sysinternals.com\Tools\`
 

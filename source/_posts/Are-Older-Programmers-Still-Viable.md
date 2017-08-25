@@ -16,7 +16,7 @@ I wonder if Zuckerberg's opinion has changed since he reached 30?
 
 Anyway on to the video which I think hits the nail on the head:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hUfbfA481qQ" frameborder="0" allowfullscreen></iframe>
+<iframe title="Are Older Programmers Still Viable Video by an older programmer" width="560" height="315" src="https://www.youtube.com/embed/hUfbfA481qQ" frameborder="0" allowfullscreen></iframe>
 
 **tldw;** Basically if you don't keep up with the trends you will become a dinosaur. But that goes for everyone in every industry.
 
