@@ -6,3 +6,4 @@ node_modules/
 public/
 .deploy*/
 myblog.sublime*
+themes/materialize
