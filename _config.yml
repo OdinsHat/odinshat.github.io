@@ -13,7 +13,7 @@ awin: 3613cb7a808f6faa9e20079995f4b0f1
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.dougbromley.com
+url: https://www.dougbromley.com
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
