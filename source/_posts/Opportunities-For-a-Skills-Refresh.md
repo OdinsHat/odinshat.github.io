@@ -16,8 +16,11 @@ A good introductory place for heklping to compare some of the places I mention b
 
 ## Google CodeLabs
 
-* FREE programming resource!
-* Covers everything especially the new stuff
+{% asset_img google-codelabs.png [Google CodeLabs Screenshot] %}
+
+* **FREE** programming resource!
+* Covers a narrow selection of the latest technologies being pushed by Google
+* [Link](https://codelabs.developers.google.com/)
 
 Absolutely my favourite in the list as it covers a lot of new techology Google is trying to push such as Progressive Web Apps, Accelerated Mobile Pages, Pushg Notifications to web apps, Web Assembly and much much more. Not only that it's all free and really great quality with step by step video guides to c9ompleting each project.
 
@@ -34,8 +37,11 @@ They all seemed to expect some semblence of knowledge for every tutoriual which 
 
 ## Cloud Academy
 
-* 7 day free trial to the courses
-* from $59 p/m 
+{% asset_img cloud-academy.png [Cloud Academy Screenshot] %}
+
+* **7 day free trial** to the courses
+* **from $59 p/m**
+* [Link](https://www.cloudacademy.com) 
 
 This service cost is a little steeper especially cosnidetring it only covers Cloud Computing but but it does scratch that itch of doing something different. It offers a large library of courses into cloud computing generally as well as specific course pathways that cover one of the the 3 major cloug computing platforms AWS, GCP or Azure.
 
@@ -43,8 +49,11 @@ I cancelled my Cloud Academy free trial pretty quick as I noticed Azure was offe
 
 ## PluralSight
 
-* 10 day free trial to the courses
-* $29 p/m
+{% asset_img pluralsight.png [PluralSight Screenshot] %}
+
+* **10 day free trial** to the courses
+* **from $29 p/m**
+* [Link](https://www.pluralsight.com/)
 
 There's so many things I love about this service that I've seen grow over time. As I write this blog post I'm wondering why haven't I signed up for this fully already. I've had a few free sign up periods but never kept my subscription for some reason or another.  But the sheer numbver of coutrses on everything from tech to cloud to project management is insane and it truly sells itself. I swear I dont' rememebr PM being one of the learning courses on here before but it is [now](https://www.pluralsight.com/search?q=project%20management).
 
