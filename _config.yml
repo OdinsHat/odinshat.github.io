@@ -78,7 +78,33 @@ theme: hexo-theme-paperbox
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git 
-  repo: git@github.com:OdinsHat/odinshat.github.io.git
-  branch: master
+    type: git
+    repo: git@github.com:OdinsHat/odinshat.github.io.git
+    branch: master
+    message: 'Latest Deploy'
+
+
+# Plugin Settings
+#
+## Plugin: Robots.txt Generator
+robotstxt:
+    useragent: "*"
+    disallow:
+        - /*.yml
+        - /*.js
+        - /js/*.js
+    allow:
+        - /
+    sitemap: /sitemap.xml
+
+## Plugin: Sitemap Generator
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+
+# Plugin: Image Lazy Loading
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: /blocks.gif
 
