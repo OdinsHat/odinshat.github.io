@@ -7,3 +7,4 @@ public/
 .deploy*/
 myblog.sublime*
 themes/materialize
+themes/*
