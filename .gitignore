@@ -8,3 +8,4 @@ public/
 myblog.sublime*
 themes/materialize
 themes/*
+.vscode
