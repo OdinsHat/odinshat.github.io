@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lokisjaguar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.dougbromley.com
+  * I am lokisjaguar (https://keybase.io/lokisjaguar) on keybase.
+  * I have a public key ASALKCZZw0r5JZiOrb0xPUnOrvGuRpVPw0RFWfBr_iU03go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200b282659c34af925988eadbd313d49ceaef1ae46954fc3444559f06bfe2534de0a",
+      "host": "keybase.io",
+      "kid": "01200b282659c34af925988eadbd313d49ceaef1ae46954fc3444559f06bfe2534de0a",
+      "uid": "25a622820b8acae85c4b8732b9298219",
+      "username": "lokisjaguar"
+    },
+    "merkle_root": {
+      "ctime": 1506421642,
+      "hash": "0bd37c16631cc40a81ab13e33208a7badad5978cecee43f5806ecc068b36ba7d6f73cf83db095b5adff30bdb22bf4d0f710f004bfbdd6a391b4468f06c2ba9ef",
+      "hash_meta": "d31bca9f76c20db835f449c828128b125adea2beb2b4d0ad5ee41694e7e6abbe",
+      "seqno": 1458568
+    },
+    "service": {
+      "hostname": "www.dougbromley.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.32"
+  },
+  "ctime": 1506421736,
+  "expire_in": 504576000,
+  "prev": "5b99684866a87f473eb4fe79c1ba5481b15163fab391d8e3f39501b194df4b4e",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCygmWcNK+SWYjq29MT1Jzq7xrkaVT8NERVnwa/4lNN4Kp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGIyODI2NTljMzRhZjkyNTk4OGVhZGJkMzEzZDQ5Y2VhZWYxYWU0Njk1NGZjMzQ0NDU1OWYwNmJmZTI1MzRkZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGIyODI2NTljMzRhZjkyNTk4OGVhZGJkMzEzZDQ5Y2VhZWYxYWU0Njk1NGZjMzQ0NDU1OWYwNmJmZTI1MzRkZTBhIiwidWlkIjoiMjVhNjIyODIwYjhhY2FlODVjNGI4NzMyYjkyOTgyMTkiLCJ1c2VybmFtZSI6Imxva2lzamFndWFyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA2NDIxNjQyLCJoYXNoIjoiMGJkMzdjMTY2MzFjYzQwYTgxYWIxM2UzMzIwOGE3YmFkYWQ1OTc4Y2VjZWU0M2Y1ODA2ZWNjMDY4YjM2YmE3ZDZmNzNjZjgzZGIwOTViNWFkZmYzMGJkYjIyYmY0ZDBmNzEwZjAwNGJmYmRkNmEzOTFiNDQ2OGYwNmMyYmE5ZWYiLCJoYXNoX21ldGEiOiJkMzFiY2E5Zjc2YzIwZGI4MzVmNDQ5YzgyODEyOGIxMjVhZGVhMmJlYjJiNGQwYWQ1ZWU0MTY5NGU3ZTZhYmJlIiwic2Vxbm8iOjE0NTg1Njh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmRvdWdicm9tbGV5LmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMyIn0sImN0aW1lIjoxNTA2NDIxNzM2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjViOTk2ODQ4NjZhODdmNDczZWI0ZmU3OWMxYmE1NDgxYjE1MTYzZmFiMzkxZDhlM2YzOTUwMWIxOTRkZjRiNGUiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBM3iTEltvZtsPq/I8N0ORKYDuvVvpdIiZo4a3hdyQVAaUxT4m/lI31HXsDlfS/xl3EVYzlZBBI4d4TyovGEKMPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgv8R2KUJi2ZA4GBvnf4Gr4Nmj9Lz+90wgQxu9rHx0KmajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lokisjaguar
+
+==================================================================
