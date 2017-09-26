@@ -108,3 +108,9 @@ lazyload:
   onlypost: false
   loadingImg: /blocks.gif
 
+# Widget: External Links Widget
+links:
+  LinkedIn: http://www.linkedin.com
+  StackShare: http://www.bridgestonepartner.com
+  GitHub: https://www.github.com/OdinsHat
+  GitLab: https://gitlab.com/Muninn
