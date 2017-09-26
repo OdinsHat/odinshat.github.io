@@ -46,5 +46,13 @@ cdffk43o+o6Yr8VOqkhfH4xb5cBZEP2To8eVa8wmv0f3To40v4s=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+## Server Locations
+
+YUou can find/verify my PGP key at the following servers.
+
+* [https://pgp.key-server.io/](https://pgp.key-server.io/)
+* [hkp://keys.gnupg.net](hkp://keys.gnupg.net)
+* [http://keyserver2.pgp.com](http://keyserver2.pgp.com)
+
 ## Article 8 [European Convention on Human Rights](https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights#Article_8_.E2.80.93_privacy)
 > A person has the right to a private and family life, his home and his correspondence
