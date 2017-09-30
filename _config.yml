@@ -110,7 +110,7 @@ lazyload:
 
 # Widget: External Links Widget
 links:
-  LinkedIn: http://www.linkedin.com
-  StackShare: http://www.bridgestonepartner.com
+  LinkedIn: https://www.linkedin.com
+  StackShare: https://stackshare.io/OdinsHat
   GitHub: https://www.github.com/OdinsHat
   GitLab: https://gitlab.com/Muninn
