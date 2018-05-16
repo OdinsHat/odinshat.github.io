@@ -17,9 +17,9 @@ However as I planned to build a multitude of static LCD displaying sensors aroun
 
 But before I could run with these devices dealing with Wi-Fi conectivity and this acronym I kept hearing (MQTT) which seemed to make ESPXX solution sound more complicted I ewanted to conquer Arduino sensing and displaying first.
 
-So that's what I did and that's what the repo is for. To first master the arduino then moive onto the ESP.
+So that's what I did and that's what [the repo](https://github.com/OdinsHat/arduino-experiments) is for. To first master the arduino then moive onto the ESP.
 
-Every room of my home will have an ESP32 or ESP8266 feeding a server:
+At first each room will have an [Arduino](https://www.arduino.cc) showing one or more of the following:
 
 * Temperature (C)
 * Relative Humidity
@@ -52,7 +52,7 @@ All of them offering something a bit different but still a spin on the basic chi
 
 ### ESP32 Example Pinout
 
-<img src="{% asset_path "ESP32-pinout.png" %}" alt="ESP32 Pinout" class="img-responsive" />
+<img src="{% asset_path "ESP32-pinout.jpg" %}" alt="ESP32 Pinout" class="img-responsive" />
 
 ## The Future
 
