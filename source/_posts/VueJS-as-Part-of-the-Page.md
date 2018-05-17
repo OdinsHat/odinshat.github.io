@@ -14,23 +14,25 @@ In this post I just wanted to show a simple example of how easy it is to include
 
 So here goes. I'm going to create a VueJS 2.0 Hello World app then follow it up with  Gist and a JSFiddle link to the code.
 
+<script type="text/javascript">
+window.onload = function () {
+    new Vue({
+        el: '#app',
+        data: {
+            author: 'Doug'
+        },
+        methods: {
+            changeAuthorName: function(event) {
+                this.author = event.target.value;
+            }
+        }
+    });
+};
+</script>
+
 <div id="app">
     <input type="text" v-on:input="changeAuthorName">
     I, {{ author }}, made this
 </div>
-
-<script type="text/javascript">
-new Vue({
-    el: '#app',
-    data: {
-        author: 'Doug'
-    },
-    methods: {
-        changeAuthorName: function(event) {
-            this.author = event.target.value;
-        }
-    }
-});
-</script>
 
 
