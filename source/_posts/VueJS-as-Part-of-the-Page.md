@@ -7,6 +7,7 @@ tags:
  - vuejs 2.0
  - spa
  - SPA
+ - javascript
 ---
 
 In this post I just wanted to show a simple example of how easy it is to include a small part of VueJS 2.0 into a small part of the page. Thats one of the great things about VueJS 2.0. It doesn't have to take over the entire page. It can simply take control of a small section, a button even. Whatever you want.
@@ -20,7 +21,7 @@ So here goes. I'm going to create a VueJS 2.0 Hello World app then follow it up 
     I, {{ author }}, made this
 </div>
 
-<script>
+<script type="text/javascript">
 new Vue({
     el: '#app',
     data: {
@@ -33,4 +34,5 @@ new Vue({
     }
 });
 </script>
+
 
