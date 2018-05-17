@@ -14,8 +14,6 @@ In this post I just wanted to show a simple example of how easy it is to include
 
 So here goes. I'm going to create a VueJS 2.0 Hello World app then follow it up with  Gist and a JSFiddle link to the code.
 
-<script src="https://vuejs.org/js/vue.js"></script>
-
 <div id="app">
     <input type="text" v-on:input="changeAuthorName">
     I, {{ author }}, made this
