@@ -28,7 +28,7 @@ new Vue({
     },
     methods: {
         changeAuthorName: function(event) {
-            this.title = event.target.value;
+            this.author = event.target.value;
         }
     }
 });
