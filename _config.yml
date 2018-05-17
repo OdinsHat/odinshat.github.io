@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: DougBromley.com
-subtitle: Personal Web Dev Blog
-description: A blog by FDoug Bromley wh is a web developer who has been tinkering with machines since the age of 5. This is some of his musing as yhe is now in his 30's and a web developer.
+title: StrawDogs.co
+subtitle: Personal Web, Hacker and Maker Blog
+description: A blog by Doug Bromley who is a web developer that's been tinkering with machines since the age of 5. This is some of his musinbg and adventures in the ever exciting and growing world of IoT, making, hacking andf other related activities.
 author: Doug Bromley
 language: en
 timezone: utc
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.dougbromley.com
+url: https://www.strawdogs.co
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
@@ -114,3 +114,4 @@ links:
   StackShare: https://stackshare.io/OdinsHat
   GitHub: https://www.github.com/OdinsHat
   GitLab: https://gitlab.com/Muninn
+  Twitter: http://twitter.com/TinTopHat
