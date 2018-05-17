@@ -15,7 +15,7 @@ So here goes. I'm going to create a VueJS 2.0 Hello World app then follow it up 
 
 <script src="https://vuejs.org/js/vue.js"></script>
 
-<div id="#app">
+<div id="app">
     <input type="text" v-on:input="changeAuthorName">
     I, {{ author }}, made this
 </div>
