@@ -17,7 +17,7 @@ So I decided *why not do the same for VueJS*
 
 I've tried learning VueJS a few times and failed miserably due to having little structure and using multiple courses with no solid line guiding me., But as I'd found success in thre Arduino way I decided to buckle up and use the same method.
 
-<img src="{% asset_path GitLab_Logo.svg.png %}" alt="VueJS 2.0 Logo" />
+<img src="{% asset_path GitLab_Logo.svg.png %}" alt="Gitlab Logo" style="height:50%" />
 
 ### So say hello to [VueJS2.0 Experiments](https://gitlab.com/Muninn/vuejs-2-experiments)
 
