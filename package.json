@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.8"
+    "version": "3.7.1"
   },
   "dependencies": {
-    "hexo": "^3.2.0",
+    "hexo": "^3.7.1",
     "hexo-autoprefixer": "^1.0.0",
     "hexo-caniuse": "^0.1.4",
     "hexo-deezer-playlist-helper": "^1.0.0",
