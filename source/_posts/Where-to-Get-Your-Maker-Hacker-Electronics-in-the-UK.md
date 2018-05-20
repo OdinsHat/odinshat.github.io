@@ -1,14 +1,13 @@
 ---
 title: Where to Get Your Maker/Hacker Electronics in the UK
-tags:
-  - hacker
-  - maker
-  - electronics
-  - arduino
-  - pi
 date: 2018-05-19 13:00:35
+tags:
+ - hacker
+ - maker
+ - electronics
+ - arduino
+ - pi
 ---
-
 
 If you're anything like me then programming probably isn't your only hobby and you try a fair few electronics projects at the same time. Two of my favourite Linux Magazines (Linux User & Developer and Linux Magazine) either have a regular Raspberry Pi sections OR they have tutorials about hacking Ardiuino's and related chips (ESP8266, ESP32 [Lua, MicroPython, C, etc]) in some way. There'S even a hugely popular UK magazine called MagPi which caters to people interested in hacking Raspberry Pi's or Pi Zero's.
 
@@ -34,15 +33,16 @@ Tending less to the smaller components and more to gadgets its still worth check
 
 ## Raspbbery Pi/Arduino:
 
-<img src="{% asset_path thepihut-logo.png %}" class="img-responsive" />
+<img src="{% asset_path thepihut-logo.png %}" class="img-responsive" alt="The Pi Hut Logo" title="Sellers of Rapberry Pis and Beagle Bones" />
 
 ### **[The Pi Hut](https://thepihut.com/)**
 I have it from the horses mouth that if you want the latest and greatest of DFRobot's cool newest gadgets in the UK then these guys will have it first. I'm a HUGE fan and can easily spend hours just browsing their [Maker section](https://thepihut.com/collections/maker-store). I also have the afformentioned Beetle and μHex Controller from them.
 
-<img src="{% asset_path modmypilogo.png %}" alt="ModMyPi Logo" />
+<img src="{% asset_path modmypilogo.png %}" alt="ModMyPi Logo" class="img-responsive" title="Sellers of many maker kits and components" />
 
 ### **[ModMyPi](https://www.modmypi.com/)** - specialises mainly in Pi's and doesn't deviate much into the general hacker space like the Pi Hut which has its own maker area. ModMyPi can also be a bit expensive. Havoing said that they are oftenb the first to release things like Google's AIY or Raspberry Pi robots.
-* **[Pimoroni](https://shop.pimoroni.com/)** - Has a really good selection of both official Pi and Arduino equipment as well as being one of the best Ada Fruit supplier in the UK. So if you're looking for an AdaBox (personally I think they're a rip off) then you can't go far wrong with Pimoroni. But be prepared - they charge heavily for what you get.
+
+### **[Pimoroni](https://shop.pimoroni.com/)** - Has a really good selection of both official Pi and Arduino equipment as well as being one of the best Ada Fruit supplier in the UK. So if you're looking for an AdaBox (personally I think they're a rip off) then you can't go far wrong with Pimoroni. But be prepared - they charge heavily for what you get.
 
 <blockquote>In fact I've compared prices before between the 3 major sites so far mentioned and found prices variances of £5-20 for a small product. But I've noticed in recent months a convergence of prices which concerns me as they are the major suppliers for makers at the moment. Am I being paranoid thinkning they're price fixing or just watching each other and price matching? Nowadays I find myself split between who charges the most for delivery as all the prices are exactly the same. Or I use one of the Chinese sellers or general electronics suppliers</blockquote>
 
@@ -53,7 +53,7 @@ These are great for finding custom kits or something a bit different. These alwa
 ### [BitsBox](https://www.bitsbox.co.uk/)
 They do lots of the most commonly used components but also have a great little selection of DIY kits for things like [amplifiers](https://www.bitsbox.co.uk/index.php?main_page=product_info&cPath=280_283&products_id=2020), [FM Bugs](https://www.bitsbox.co.uk/index.php?main_page=product_info&cPath=280_283&products_id=2830) and much more. What I also like is their great collection of easy to navigate [enclosures or project boxes](https://www.bitsbox.co.uk/index.php?main_page=index&cPath=185). Some coming with battery doors making them really handy.
 
-<img src="{% asset_path rakit.png %}" class="img-responsive" />
+<img src="{% asset_path rakit.png %}" class="img-responsive" alt="Rakits Logo" title="Maker of many great noise making electronic devices" />
 
 ### [Rakits](https://www.rakits.co.uk/)
 I love these guys so much! One of my favourites for DIY sytnth kits! They were one of my first forays into noise making projects and I discovered them via their ebay shop. I already have one oif every one of their kits but plan on buying extra of all of them to create breakout versions to put in project boxes I've bought from [BitsBox](https://www.bitsbox.co.uk/) to create my own little synth playground with sequencers - the works.
@@ -68,10 +68,13 @@ Only recently discovered these guys and I'm already super impressed by their she
 
 I recommend these only if you know exactly what you want and have a code for an IC or transistor. As they have so many products its difficult to navigate the search to find individual products.
 
-<img src="{% asset_path Farnell_element14.jpg %}" class="img-responsive" />
+<img src="{% asset_path Farnell_element14.jpg %}" class="img-responsive" alt="Farnell Element 14 Logo" />
 
 ### [Farnel/Element14](http://uk.farnell.com/)
 These are one of the main official distributors of Raspberry Pi's as designated by teh RPi foundation. So you don't just get resistors, capacitors and whatnot here. You can get practically anything & everything yoiu want from these guys but the prices are a biut hefty unless you're buying in bulk. Its also a pain sifting through the sheer quantity of components for exactly what you need. Come prepared with exact component numbers and types.
+
+
+<img src="{% asset_path CPC.png %}" class="img-responsive" alt="CPC Electronics Logo" />
 
 ### [CPC](http://cpc.farnell.com/)
 Actually part of the Farnell group so you'd expect the prices to be the same. Except they're not. I think one is mainly for business while the other consumer but you can buy from either and its worth cross-checking both for pricing. Bare in mind they also charge differently for delivery. 
