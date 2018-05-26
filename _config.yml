@@ -115,3 +115,13 @@ links:
   GitHub: https://www.github.com/OdinsHat
   GitLab: https://gitlab.com/Muninn
   Twitter: http://twitter.com/TinTopHat
+
+instagramWall:
+  enable: true  
+  requestedCount: 10
+  itemsPerRow: 3
+  showCaption: false
+  displayStyle: 'flex'
+  gutterSize: '10px'
+  overlayColor: 'white'
+  textColor: 'black'
