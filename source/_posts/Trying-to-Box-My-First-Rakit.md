@@ -82,7 +82,11 @@ Using superglue the wrong way and finding it melts wire insulation. A lot was le
 
 ## Its Important To Keep a Clean Work Area
 
-<img src="{% asset_path clean-work-area.jpg %}" alt="Always keep a clean area" title="Always keep a clean area" />
+<img src="{% asset_path clean-work-area.jpg %}" alt="Always keep a clean work area" title="Always keep a clean work area" />
+
+Notice I'm currently working on the drum kit. This project has given me a whole new insight into how complicated it must be to CAD and produce a case. To me the drum case seemed relatively simple until I had to produce my own project box!
+
+But no seriously you should always keep a clean work area to make sure projects components don't get mixed up and solder standing or under a desk so you don't drop hot solder on yourself. 
 
 ## What I Learnt
 
@@ -96,5 +100,6 @@ Using superglue the wrong way and finding it melts wire insulation. A lot was le
 * I'm not very good at making project boxes look good.
 * I have a renewed respect for the people at Rakits and for their designs and the work that goes into them. It ain't easy!
 * I like stickers!!
+* Don't solder over your crossed legs.
 * I'm a sucker for sweets!
 * It's possible to fiddle with the the boards components in paralell to make noises in different ways. Such as sticking POT terminals over a resistor and you get weird extra/other noises. As mentioned this will be the core of my next project with an APC.
