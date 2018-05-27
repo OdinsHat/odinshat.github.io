@@ -104,7 +104,7 @@ sitemap:
 
 # Plugin: Image Lazy Loading
 lazyload:
-  enable: true
+  enable: false
   onlypost: false
   loadingImg: /blocks.gif
 
@@ -116,12 +116,12 @@ links:
   GitLab: https://gitlab.com/Muninn
   Twitter: http://twitter.com/TinTopHat
 
-instagramWall:
-  enable: true  
-  requestedCount: 10
-  itemsPerRow: 3
-  showCaption: false
-  displayStyle: 'flex'
-  gutterSize: '10px'
-  overlayColor: 'white'
-  textColor: 'black'
+  #instagramWall:
+  #  enable: true  
+  #  requestedCount: 10
+  #  itemsPerRow: 3
+  #  showCaption: false
+  #  displayStyle: 'flex'
+  #  gutterSize: '10px'
+  #  overlayColor: 'white'
+  #  textColor: 'black'
