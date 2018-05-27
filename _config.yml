@@ -131,8 +131,7 @@ markdown:
   anchors:
     level: 1
     collisionSuffix: 'v'
-    permalink: true
+    permalink: false
     permalinkClass: header-anchor
-    permalinkSymbol: ¶
 
 disqus_shortname: www-strawdogs-co
