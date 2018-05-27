@@ -116,12 +116,23 @@ links:
   GitLab: https://gitlab.com/Muninn
   Twitter: http://twitter.com/TinTopHat
 
-  #instagramWall:
-  #  enable: true  
-  #  requestedCount: 10
-  #  itemsPerRow: 3
-  #  showCaption: false
-  #  displayStyle: 'flex'
-  #  gutterSize: '10px'
-  #  overlayColor: 'white'
-  #  textColor: 'black'
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+  anchors:
+    level: 1
+    collisionSuffix: 'v'
+    permalink: true
+    permalinkClass: header-anchor
+    permalinkSymbol: ¶
+
+disqus_shortname: www-strawdogs-co
