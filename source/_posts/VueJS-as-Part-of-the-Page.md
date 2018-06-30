@@ -15,7 +15,9 @@ So here goes. I'm going to create a VueJS 2.0 Hello World app then follow it up 
 
 <div id="app">
     <input type="text" v-on:input="changeAuthorName">
+    {% raw %}
     I, {{ author }}, made this
+    {% endraw %}
 </div>
 
 <script type="text/javascript">

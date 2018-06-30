@@ -32,6 +32,7 @@
     "hexo-tag-owl": "^1.2.2",
     "hexo-tag-spotify": "^1.0.4",
     "hexo-tag-twitter": "^1.0.1",
+    "keyword-extractor": "0.0.15",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-footnote": "^3.0.1",
     "markdown-it-ins": "^2.0.0"
