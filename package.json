@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.7.1"
+    "version": "3.9.0"
   },
   "dependencies": {
-    "hexo": "^3.7.1",
+    "hexo": "^3.9.0",
     "hexo-autoprefixer": "^1.0.0",
     "hexo-caniuse": "^0.1.4",
     "hexo-deezer-playlist-helper": "^1.0.0",
@@ -16,28 +16,31 @@
     "hexo-generator-feed": "^1.2.2",
     "hexo-generator-index": "^0.2.0",
     "hexo-generator-json-content": "^3.0.1",
+    "hexo-generator-json-feed-org": "^1.0.5",
     "hexo-generator-robotstxt": "^0.2.0",
     "hexo-generator-sitemap": "^1.2.0",
     "hexo-generator-tag": "^0.2.0",
     "hexo-helper-qrcode": "^1.0.2",
-    "hexo-lazyload-image": "^1.0.3",
+    "hexo-lazyload-image": "^1.0.4",
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-jade": "^0.4.1",
     "hexo-renderer-less": "^0.2.0",
     "hexo-renderer-markdown-it": "^3.4.1",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.3.2",
+    "hexo-server": "^0.3.3",
     "hexo-tag-codepen": "^0.2.2",
     "hexo-tag-deezer": "^1.0.6",
     "hexo-tag-owl": "^1.2.2",
-    "hexo-tag-spotify": "^1.0.4",
+    "hexo-tag-soundcloud": "^1.0.2",
+    "hexo-tag-spotify": "^1.1.0",
     "hexo-tag-twitter": "^1.0.1",
     "keyword-extractor": "0.0.15",
     "markdown-it-abbr": "^1.0.4",
-    "markdown-it-footnote": "^3.0.1",
+    "markdown-it-footnote": "^3.0.2",
     "markdown-it-ins": "^2.0.0"
   },
   "devDependencies": {
-    "gulp-real-favicon": "^0.3.0"
+    "gulp-real-favicon": "^0.3.2",
+    "hexo-breadcrumb": "^1.0.2"
   }
 }
