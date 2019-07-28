@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-paperbox
+theme: next
 
 
 # Deployment
@@ -136,3 +136,20 @@ markdown:
     permalinkClass: header-anchor
 
 disqus_shortname: www-strawdogs-co
+
+hexoWorkbox:
+  enable: true
+
+workbox:
+  swDest: 'sw.js'
+  globPatterns:
+    - '**/*.html'
+  globIgnores:
+    - '!index.html'
+  runtimeCaching:
+    - urlPattern: '**/*.jpg'
+      handler: 'staleWhileRevalidate'
+      options:
+        cacheName: 'images'
+  skipWaiting: true
+  clientsClaim: true

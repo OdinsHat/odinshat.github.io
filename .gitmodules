@@ -1,3 +1,6 @@
 [submodule "themes/hexo-theme-paperbox"]
 	path = themes/hexo-theme-paperbox
 	url = https://github.com/sun11/hexo-theme-paperbox.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/theme-next/hexo-theme-next
