@@ -23,13 +23,13 @@ This is my personally built up list of decent sites for electronic kits, compone
 I'd make sure you're not buying a trademarked/patented device suchh as the Teensey's which have official distributors but their ESP8266's are 10% the price of buying UK versions for the same equipment. For example at time of blogging here's [BangGood's NodeMCU ESP8266](https://www.banggood.com/NodeMcu-Lua-WIFI-Internet-Things-Development-Board-Based-ESP8266-CP2102-Wireless-Module-p-1097112.html?rmmds=search&stayold=1&cur_warehouse=CN) **selling for £3.38**. At Pimoroni they're selling for a **[whacking £12 before delivery](https://shop.pimoroni.com/collections/electronics/products/nodemcu-v2-lua-based-esp8266-development-kit)**. Did I mention Pimoroni charge delivery on top whereas BangGood are all free delivery? The only disadvantage being you have to wait a week instead of a few days. Check BangGood before anywhere else if you want DIY electronics kits, Arduinos, ESPX chips, etc. You really can make a MASSIVE saving. In fact BagGood are so much cheaper that for still less than what POimoroni charge you can get an ESP8266 chip with a tiny OLED screen embedded on the board for £7.66!!!
 
 As a sweetener here's a few coupons they have going at the mo:
-* [15% Off DIY Electronics](https://www.banggood.com/collection-5766.html?utm_campaign=elediy5766&utm_content=wayne&p=3D23198123540201612N)
-* [8-10% Off For Electronics - US Customers Only](https://us.banggood.com/Wholesale-Warehouse-Electronics-c-Usa-1091.html?utm_campaign=USELE10&utm_content=wayne&p=3D23198123540201612N)
-* [10% Off The Electronics Gadgets Category](https://www.banggood.com/Wholesale-Electronics-c-1091.html?utm_campaign=2018Elec&utm_content=mony&p=3D23198123540201612N)
+* [15% Off DIY Electronics](https://www.banggood.com/collection-5766.html?p=3D23198123540201612N&custlinkid=431549)
+* [$53.99 for MINI TS80 Digital Soldering Iron Station](https://www.banggood.com/MINI-TS80-Digital-OLED-USB-Type-C-Programable-Soldering-Iron-Station-Solder-Tool-Built-in-STM32-Chip-p-1330060.html?utm_campaign=BGTS80&p=3D23198123540201612N&custlinkid=431553)
+* [$8.49 for TTGO T-Display ESP32 CP2104 WiFi bluetooth Module](https://www.banggood.com/LILYGO-TTGO-T-Display-ESP32-CP2104-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-For-Arduino-p-1522925.html?utm_campaign=TTGO&p=3D23198123540201612N&custlinkid=431555)
 
 
 ### [GearBest](http://www.gearbest.com)
-Tending less to the smaller components and more to gadgets its still worth checking this company out as they are one of the Chinese providers that offer massive discounts on expensive western imports. 
+Tending less to the smaller components and more to gadgets its still worth checking this company out as they are one of the Chinese providers that offer massive discounts on expensive western imports.
 
 ## Raspbbery Pi/Arduino:
 
@@ -79,7 +79,7 @@ These are one of the main official distributors of Raspberry Pi's as designated 
 <img src="{% asset_path CPC.png %}" class="img-responsive" alt="CPC Electronics Logo" />
 
 ### [CPC](http://cpc.farnell.com/)
-Actually part of the Farnell group so you'd expect the prices to be the same. Except they're not. I think one is mainly for business while the other consumer but you can buy from either and its worth cross-checking both for pricing. Bare in mind they also charge differently for delivery. 
+Actually part of the Farnell group so you'd expect the prices to be the same. Except they're not. I think one is mainly for business while the other consumer but you can buy from either and its worth cross-checking both for pricing. Bare in mind they also charge differently for delivery.
 
 
 ## Missed Off?

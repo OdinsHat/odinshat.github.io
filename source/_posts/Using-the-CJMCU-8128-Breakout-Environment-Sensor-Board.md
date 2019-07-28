@@ -4,7 +4,7 @@ date: 2018-07-28 19:30:56
 tags: raspbery pi, pi, sensors, electronics
 ---
 
-The CJMCU 8128 breakout board includes a great trio of environment sensors that pretty much cover all the bases when it comes to sensing your local environment and has a few overlaps especially with temperature. I've only seen it avialable so far at [Baggood.com](https://www.banggood.com/CJMCU-8128-CCS811-SI7021-BMP280-Carbon-Dioxide-CO2-VOCs-Temperature-Humidity-Gas-Pressure-Sensor-p-1167432.html).
+The CJMCU 8128 breakout board includes a great trio of environment sensors that pretty much cover all the bases when it comes to sensing your local environment and has a few overlaps especially with temperature. I've only seen it avialable so far at [Baggood.com](https://www.banggood.com/CJMCU-8128-CCS811-SI7021-BMP280-Carbon-Dioxide-CO2-VOCs-Temperature-Humidity-Gas-Pressure-Sensor-p-1167432.html?rmmds=search&p=3D23198123540201612N&custlinkid=431560).
 
 In the picture below you can see each of the three sensors labelled:
 
