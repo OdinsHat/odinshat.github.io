@@ -1,7 +1,10 @@
 ---
 title: Music I Code To
 date: 2019-07-28 02:05:03
-tags: music, coding, programming
+tags: 
+    - music
+    - coding
+    - programming
 ---
 
 It's been a LONG time since my last post so my first port of call was recovering my last post which I stupidly hadn't pushed to rmeote before my hard drive died. Then I had to play with some plugins.
