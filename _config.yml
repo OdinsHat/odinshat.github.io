@@ -80,8 +80,7 @@ theme: next
 deploy:
     type: git
     repo: git@github.com:OdinsHat/odinshat.github.io.git
-    branch: master
-    message: 'Latest Deploy'
+    branch: 'gh-pages'
 
 
 # Plugin Settings
